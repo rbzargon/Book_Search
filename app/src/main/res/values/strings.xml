@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+    <string name="book">Book:</string>
+    <string name="search">SEARCH</string>
+    <string name="book_name">Book name</string>
+    <string name="book_thumbail">Book thumbail</string>
+    <string name="max_results_query"><![CDATA[&maxResults=10]]></string>
+    <string name="server_error">Server error!</string>
+    <string name="hint_text">Enter text in the Book name bar and click search...</string>
+    <string name="check_conn">Check your internet connection</string>
+</resources>
